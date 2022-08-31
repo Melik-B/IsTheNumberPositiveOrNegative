@@ -37,7 +37,7 @@ Hello sir, the purpose of this <b>SIMPLE</b> console project you have seen is to
 
 <h1>Contact</h1>
 
-Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
+Melik Bayka - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
 Project Link: [Is The Number Positive Or Negative](https://github.com/Melik-B/IsTheNumberPositiveOrNegative)
 
