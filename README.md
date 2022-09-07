@@ -41,4 +41,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Is The Number Positive Or Negative](https://github.com/Melik-B/IsTheNumberPositiveOrNegative)
 
-<p align="right">-Melik Bayka</p>
+<p align="right">-Melik Baykal</p>
